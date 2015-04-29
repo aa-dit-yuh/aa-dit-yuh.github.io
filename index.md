@@ -11,7 +11,7 @@ I am an electronics major. My interests include web and software development, ps
 ### News
 
    * *10.02.15*: Appointed autonomous robotics head at [Technology Robotix Society](http://robotix.in)!
-   * *14.02.14*: Joined the [Autonomous Ground Vehicle](http://agv.iitkgp.ac.in/) research group at IIT KGP!
+   * *14.02.14*: Joined the [Autonomous Ground Vehicle](/AGV/) research group at IIT KGP!
    * *10.02.14*: Appointed algorithmic coding sub-head at [Technology Robotix Society](http://robotix.in)!
    * *17.08.13*: Appointed member at [Technology Robotix Society](http://robotix.in)!
 

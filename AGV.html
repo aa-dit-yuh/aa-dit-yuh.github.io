@@ -1,0 +1,32 @@
+---
+title: AGV
+homepage: False
+layout: page
+permalink: /AGV/
+---
+
+[Autonomous Ground Vehicle](http://www.agv.iitkgp.ac.in/) Research Group is a multi-disciplinary research group aimed at building a fully operational self-driving car. I have been a part of the research group since February 2014 in its software team.  
+
+My contributions to Eklavya - 3, the last version of Eklavya series that participated in IGVC 2014 include  
+
+   * *Ability to create varying [seeds](https://github.com/AGV-IIT-KGP/freezing-batman/pull/16)*.  
+
+     A seed is a circular path that a robot can take from its current direction. Using seeds, we can restrain out robot from attempting irregular paths with varying curvatures.
+     A seed can be uniquely identified by the position vector of the end point of a seed arc.
+     I developed a script that would list all possible seeds around a point as required, interpret the curvature and accordingly assign velocities to both the wheels to achieve such a curvature.
+
+   * *Introduction of a newer *[Quick Reflex Planner](https://github.com/AGV-IIT-KGP/freezing-batman/pull/109)* over the traditional A*-seed search planner*.  
+
+     The Eklavya - 3 employed a LIDAR that fused with the camera module to create a map with 20m visibility around the robot.
+     A seeded A* star, while discovering the entire map, would assume the entire map to be the search space.
+     This meant a performance of 35 FPS, good enough for straight lanes but not adequate enough for tight turns.  
+     It was observed that the optimum path to a target say 20m away (while constrained to move within a lane) would always involve the optimum path to a target just 5m ahead of the bot, in the direction of heading.
+     Reducing our search space to a quarter of the previous value allowed us to achieve 200 FPS.
+
+The latest iteration of Eklavya, the Eklavya - 4 will compete in IGVC 2015. My contributions include  
+   
+   * *Catkin package for [VectorNav VN-200 Rugged](https://github.com/narayanaditya95/vn200)*.  
+
+     The VectorNav VN-200 Rugged is a all-purpose INS solution employed in Eklavya series.
+     I developed a package to publish the IMU and INS data as ```Sensor/Imu.msg```.
+     The package also employed quick post-processing to eliminate gravity and random walk errors.
