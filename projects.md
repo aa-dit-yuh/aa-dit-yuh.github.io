@@ -38,4 +38,4 @@ permalink: /projects/
 
 #### Scripts & Hacks
 
-   * None
+   * [DjangoCMS WOW](/blog/2015/05/02/DjangoCMS_WOW/) is a django-cms plugin I developed to allows revealing animations to elements.
