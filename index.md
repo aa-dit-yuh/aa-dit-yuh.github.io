@@ -5,7 +5,7 @@ permalink: /
 ---
 
 {: style="margin-top:0; margin-bottom: 0;"}
-I am a second year undergraduate student studying at [Indian Institute of Technology, Kharagpur][1].
+I am a third year undergraduate student studying at [Indian Institute of Technology, Kharagpur][1].
 I am an electronics major. My interests include web and software development, psychology and music.
 
 ### News
