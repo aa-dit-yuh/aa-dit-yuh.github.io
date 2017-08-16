@@ -5,15 +5,26 @@ permalink: /
 ---
 
 {: style="margin-top:0; margin-bottom: 0;"}
-I am a third year undergraduate student studying at [Indian Institute of Technology, Kharagpur][1].
-I am an electronics major. My interests include web and software development, psychology and music.
+I am a final year undergraduate student studying at [Indian Institute of Technology Kharagpur].
+I am an electronics major. My interests include software development, politics and music.
 
 ### News
 
-   * *10.06.15*: Recruited at [aasaanjobs.com](http://aasaanjobs.com) as a summer intern in the Django development team.
-   * *02.05.15*: Open-sourced the python package [djangocms-wow](/blog/2015/05/02/DjangoCMS_WOW/) on [PyPI](https://pypi.python.org/pypi/djangocms-wow)
-   * *10.02.15*: Appointed autonomous robotics head at [Technology Robotix Society](http://robotix.in)!
-   * *14.02.14*: Joined the [Autonomous Ground Vehicle](/AGV/) research group at IIT KGP!
-   * *10.02.14*: Appointed algorithmic coding sub-head at [Technology Robotix Society](http://robotix.in)!
+   * *August 2017*: Elected as the department representative to the Academic Council, IIT Kharagpur.
+   * *September 2016*: Offered a re-internship by [Amazon India Development Centre] for exceeding expectations.
+   * *May 2016*: Appointed as a project maintainer at [Software Carpentry].
+   * *February 2016*: Appointed governor at [Technology Robotix Society].
+   * *August 2015*: Recruited as an SDE intern at [Amazon India Development Center] for summers 2016.
+   * *June 2015*: Recruited at [Aasaanjobs Pvt Ltd] as a summer intern in the development team.
+   * *March 2015*: Published the python package [djangocms-wow] on PyPI.
+   * *February 2015*: Appointed autonomous robotics head at [Technology Robotix Society].
+   * *February, 2014*: Joined the [Autonomous Ground Vehicle] research group at IIT KGP.
+   * *February 2014*: Appointed algorithmic coding sub-head at [Technology Robotix Society].
 
-[1]: http://iitkgp.ac.in/
+[Indian Institute of Technology Kharagpur]: http://iitkgp.ac.in
+[Software Carpentry]: https://software-carpentry.org
+[Amazon India Development Center]: http://www.amazon.in
+[Aasaanjobs Pvt Ltd]: https://aasaanjobs.com
+[djangocms-wow]: https://pypi.python.org/pypi/djangocms-wow)
+[Autonomous Ground Vehicle]: /AGV/
+[Technology Robotix Society]: https://robotix.in

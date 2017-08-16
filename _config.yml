@@ -6,16 +6,15 @@ url: "https://narayanaditya.in"
 author_name: Aditya Narayan
 author_image_path: /images/author-image.jpeg
 author_bio: |
-    Sophomore at <a href="http://iitkgp.ac.in/">Indian Institute of Technology</a>.
-    Pursuing bachelors in Electronics and Electrical Communication.
+    Final year student at <a href="http://iitkgp.ac.in/">Indian Institute of Technology</a>.
+    Pursuing dual degree course in Electronics and Electrical Communication.
     Loves procrastinating.
 
 # External services
 github_url: "https://github.com/narayanaditya95"
-twitter_url: "https://twitter.com/narayanaditya95"
 linkedin_url: "https://in.linkedin.com/pub/aditya-narayan/81/b96/1b2"
 feed_url: "http://feeds.feedburner.com/narayanaditya95"
-email: "narayanaditya95@gmail.com"
+email: "mail@narayanaditya.in"
 
 # Markdown rendering
 markdown: kramdown
