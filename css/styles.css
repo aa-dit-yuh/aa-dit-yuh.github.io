@@ -158,35 +158,8 @@ p code, ul code {
 }
 
 .right-column {
-    max-width: 40em;
+    max-width: 45em;
     padding: 0 4em;
-}
-
-.post-meta {
-    font-size: 0.9em;
-    line-height: 1.5em;
-    margin: 0 0 1em 0;
-    overflow: auto;
-    padding: 0;
-}
-
-.post-meta li, .post-meta a {
-    color: #999;
-}
-
-.post-meta li {
-    display: inline;
-    float: left;
-    overflow: auto;
-    padding-left: 0.5em;
-}
-
-.post-meta li:first-child {
-    padding-left: 0;
-}
-
-.post-meta i {
-    padding-right: 0.4em;
 }
 
 .post {

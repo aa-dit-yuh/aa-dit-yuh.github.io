@@ -1,20 +1,22 @@
-name: Pursuit of minimalism
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+name: Aditya Narayan
 description: Blog of Aditya Narayan
 url: "https://narayanaditya.in"
 
 # Author info
 author_name: Aditya Narayan
 author_image_path: /images/author-image.jpeg
-author_bio: |
-    Final year student at <a href="http://iitkgp.ac.in/">Indian Institute of Technology</a>.
-    Pursuing dual degree course in Electronics and Electrical Communication.
-    Loves procrastinating.
 
 # External services
-github_url: "https://github.com/narayanaditya95"
-linkedin_url: "https://in.linkedin.com/pub/aditya-narayan/81/b96/1b2"
-feed_url: "http://feeds.feedburner.com/narayanaditya95"
-email: "mail@narayanaditya.in"
+github_url: https://github.com/narayanaditya95
+linkedin_url: https://www.linkedin.com/in/narayanaditya95
+twitter_url: https://twitter.com/aditnryn
+instagram_url: http://instagram.com/aditnryn/
+email: mail@narayanaditya.in
 
 # Markdown rendering
 markdown: kramdown
