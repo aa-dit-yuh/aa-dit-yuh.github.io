@@ -13,22 +13,22 @@ permalink: /projects/
 
 #### Course
 
- *  [Assignments](https://github.com/narayanaditya95/mooc/tree/master/coursera/nand2tetris1).
+ *  [Assignments](https://github.com/aditnryn/mooc/tree/master/coursera/nand2tetris1).
     From Nand to Tetris - Part 1, Coursera, Summer 2015 - mentored by Hebrew University of Jerusalem.
- *  [Algorithmic Assignments](https://github.com/narayanaditya95/CS29003).
+ *  [Algorithmic Assignments](https://github.com/aditnryn/CS29003).
     Algorithm Lab, IIT KGP, Spring 2015 - mentored by [Prof. Soumyajit Dey](http://cse.iitkgp.ac.in/~soumya/).
- *  [Assignments](https://github.com/narayanaditya95/mooc/tree/master/edx/MITx-6.00.1x).
+ *  [Assignments](https://github.com/aditnryn/mooc/tree/master/edx/MITx-6.00.1x).
     Introduction to Computer Science and Programming Using Python, edX, Spring 2015 - mentored by MIT.
- *  [Assignment modules](https://github.com/narayanaditya95/mooc/tree/master/edx/Microsoft-DEV203x).
+ *  [Assignment modules](https://github.com/aditnryn/mooc/tree/master/edx/Microsoft-DEV203x).
     Introduction to Bootstrap, edX, Spring 2015 - mentored by Microsoft.
- *  [Zoo Management System GUI](https://github.com/narayanaditya95/zooManagementAssignment).
+ *  [Zoo Management System GUI](https://github.com/aditnryn/zooManagementAssignment).
     Object Oriented System Design, IIT KGP, Autumn 2014 - mentored by [Prof. Rajeev Kumar](http://cse.iitkgp.ac.in/~rkumar/).
 
 #### Independent
 
- *  [VectorNav VN-200 Rugged](https://github.com/narayanaditya95/vn200) - A ROS catkin library.
+ *  [VectorNav VN-200 Rugged](https://github.com/aditnryn/vn200) - A ROS catkin library.
  *  [Online Judge](https://github.com/Robotix/sudocode-online-judge) for the annual coding event Sudocode of Robotix 2015.
- *  [Robotix 2016 Website](https://github.com/narayanaditya95/Robotix) built over Django-CMS.
+ *  [Robotix 2016 Website](https://github.com/aditnryn/Robotix) built over Django-CMS.
 
 #### Open-source Contributions
 
